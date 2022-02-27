@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flask-cloudbuild
-        image: europe-west3-docker.pkg.dev/codeway-testcase-342621/flask-app-repository/my-app:472c36d
+        image: europe-west3-docker.pkg.dev/codeway-testcase-342621/flask-app-repository/my-app:f6d75c0
         ports:
         - containerPort: 8080
 ---
